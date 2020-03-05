@@ -1,0 +1,17 @@
+government = republic
+mercantilism = 0.2
+technology_group = western
+religion = catholic
+capital = 183  # Paris
+
+1437.2.20 = {
+	monarch = {
+		name = "a"
+		dynasty = a
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = scholar
+}
