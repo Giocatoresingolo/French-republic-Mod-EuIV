@@ -1,0 +1,25 @@
+country_decisions = {
+
+	FrenchRepublicNation= {
+		major = yes
+		allow = {
+			adm_tech = 28
+			is_at_war = no
+			owns_core_province = 183	# Paris
+		}
+		effect = {
+			change_tag = FRR
+			france_region = {
+				add_permanent_claim = FRR
+			}
+			add_prestige = 250
+			FRR = {
+				set_capital = 183
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

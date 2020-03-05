@@ -6,4 +6,4 @@ tags={
 	"New Nations"
 }
 picture="FRR.jpg"
-supported_version="1.28.*.*"
+supported_version="1.29.*.*"
